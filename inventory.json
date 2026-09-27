@@ -1,10 +1,25 @@
 {
   "dealership": "River Valley Ford",
-  "generated_at": "2026-09-26T11:52:42",
+  "generated_at": "2026-09-27T00:46:47",
   "vehicle_count": 48,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "2014 Ford F-150 XLT",
+      "vin": "1FTFW1ET3EFB65028",
+      "stock": "26RA788",
+      "color": "Oxford White",
+      "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/used/7e7eca8532fa.html",
+      "source_url": "https://www.rivervalleyford.ca/en/used-inventory/ford/f-150/2014-ford-f-150-id39228837",
+      "dealer_url": "https://www.rivervalleyford.ca/en/used-inventory/ford/f-150/2014-ford-f-150-id39228837?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T00:42:22",
+      "odometer_km": 133940,
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150 XLT",
+      "condition": "used"
+    },
     {
       "name": "2020 Ford Transit Connect XLT",
       "vin": "NM0LS7T26L1476827",
@@ -63,21 +78,6 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150 Lariat",
-      "condition": "used"
-    },
-    {
-      "name": "2021 Honda Ridgeline EX-L",
-      "vin": "5FPYK3F57MB500401",
-      "stock": "C001624",
-      "color": "Platinum White Pearl",
-      "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/used/6130cca485b1.html",
-      "source_url": "https://www.rivervalleyford.ca/en/used-inventory/honda/ridgeline/2021-honda-ridgeline-id39052612",
-      "dealer_url": "https://www.rivervalleyford.ca/en/used-inventory/honda/ridgeline/2021-honda-ridgeline-id39052612?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T00:39:30",
-      "odometer_km": 265801,
-      "year": 2021,
-      "make": "Honda",
-      "model": "Ridgeline EX-L",
       "condition": "used"
     },
     {
@@ -183,6 +183,20 @@
       "condition": "used"
     },
     {
+      "name": "2022 Volkswagen Tiguan Highline",
+      "vin": "3VV4B7AX5NM142432",
+      "stock": "P26F123",
+      "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/used/76462c28f616.html",
+      "source_url": "https://www.rivervalleyford.ca/en/used-inventory/volkswagen/tiguan/2022-volkswagen-tiguan-id39254172",
+      "dealer_url": "https://www.rivervalleyford.ca/en/used-inventory/volkswagen/tiguan/2022-volkswagen-tiguan-id39254172?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T00:42:50",
+      "odometer_km": 30336,
+      "year": 2022,
+      "make": "Volkswagen",
+      "model": "Tiguan Highline",
+      "condition": "used"
+    },
+    {
       "name": "2023 Ford Bronco Wildtrak",
       "vin": "1FMEE5DP0PLB03080",
       "stock": "26BR098",
@@ -223,36 +237,6 @@
       "last_verified": "2026-09-26T00:37:14",
       "odometer_km": 50177,
       "year": 2023,
-      "make": "Ford",
-      "model": "F-150 XLT",
-      "condition": "used"
-    },
-    {
-      "name": "2023 Ford F-150 Lariat",
-      "vin": "1FTEW1EPXPFA81791",
-      "stock": "P26F123",
-      "color": "Agate Black Metallic",
-      "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/used/d5850815f974.html",
-      "source_url": "https://www.rivervalleyford.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39191895",
-      "dealer_url": "https://www.rivervalleyford.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39191895?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T00:37:31",
-      "odometer_km": 96908,
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150 Lariat",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Ford F-150 XLT",
-      "vin": "1FTFW3L82RKF77755",
-      "stock": "26F1236",
-      "color": "Agate Black Metallic",
-      "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/used/640b08510b6d.html",
-      "source_url": "https://www.rivervalleyford.ca/en/used-inventory/ford/f-150/2024-ford-f-150-id39068873",
-      "dealer_url": "https://www.rivervalleyford.ca/en/used-inventory/ford/f-150/2024-ford-f-150-id39068873?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T00:37:47",
-      "odometer_km": 31956,
-      "year": 2024,
       "make": "Ford",
       "model": "F-150 XLT",
       "condition": "used"
@@ -344,6 +328,20 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-90 PHEV GS-L",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Toyota Tacoma Base",
+      "vin": "3TYLB5JN7ST061669",
+      "stock": "C00233",
+      "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/used/073fd3fa9925.html",
+      "source_url": "https://www.rivervalleyford.ca/en/used-inventory/toyota/tacoma/2025-toyota-tacoma-id39254167",
+      "dealer_url": "https://www.rivervalleyford.ca/en/used-inventory/toyota/tacoma/2025-toyota-tacoma-id39254167?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T00:42:36",
+      "odometer_km": 41224,
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Tacoma Base",
       "condition": "used"
     },
     {
