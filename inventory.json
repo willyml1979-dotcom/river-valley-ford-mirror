@@ -1,7 +1,7 @@
 {
   "dealership": "River Valley Ford",
-  "generated_at": "2026-10-25T15:46:55",
-  "vehicle_count": 221,
+  "generated_at": "2026-10-26T00:18:42",
+  "vehicle_count": 219,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -864,15 +864,6 @@
       "name": "2026 Ford F-150 XLT",
       "vin": "1FTFW3L80TKE48176",
       "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/new/32ab05d8f5cf.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Ford F-150 XLT",
-      "vin": "1FTFW3L89TKE45874",
-      "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/new/7e0bc50b8a10.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
@@ -1902,15 +1893,6 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Ford Transit Reg 148",
-      "vin": "1FDBW2XG9TKB27095",
-      "url": "https://willyml1979-dotcom.github.io/river-valley-ford-mirror/new/33960c9b9a10.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Transit",
       "condition": "new"
     },
     {
